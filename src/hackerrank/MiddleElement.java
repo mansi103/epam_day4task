@@ -1,5 +1,10 @@
 package hackerrank;
 
+/**
+* Question:
+* To find middle element in the linked list
+*
+*/
 class MiddleElement {
 	class Node {
 		int data;
